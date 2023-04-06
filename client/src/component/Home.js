@@ -5,7 +5,7 @@ const Home = (props) => {
   return (
     <div>
         <button>+</button>
-        <span>0</span>
+        <span>10</span>
         <button>-</button>
     </div>
   )
